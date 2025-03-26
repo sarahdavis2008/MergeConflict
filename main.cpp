@@ -7,7 +7,9 @@ int add(int a, int b);
 
 int main()
 {
-
+    cout << "Greeting....\n";
+    cout << "Hello World\n";
+    say("hi");
     return 0;
 }
 
